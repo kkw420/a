@@ -1,0 +1,3 @@
+Healthcare systems use AI to diagnose diseases and recommend treatments.
+Machine learning assists doctors in predicting patient recovery rates.
+Medical data helps in creating personalized treatment plans.

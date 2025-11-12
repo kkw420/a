@@ -1,0 +1,3 @@
+Sports analytics use data science to improve team performance.
+Machine learning models predict match outcomes and player fitness.
+Technology is revolutionizing the sports industry.

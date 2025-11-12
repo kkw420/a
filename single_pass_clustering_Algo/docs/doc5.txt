@@ -1,0 +1,3 @@
+The weather today is cloudy with a chance of rain in the evening.
+Meteorologists use data from satellites to predict temperature and rainfall.
+Climate change is affecting weather patterns across the globe.
